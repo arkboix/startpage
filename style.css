@@ -24,7 +24,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: url("file:///home/arkboi/wallpapers/water3.jpg") no-repeat center center fixed;
+    background: url("water3.jpg") no-repeat center center fixed;
     background-size: cover;
     filter: blur(6px);
     z-index: -1;
